@@ -70,4 +70,4 @@ const SchoolStore = types.model("SchoolStore", {
 
 const sunshineElementary = SchoolStore.create({name: "Sunshine Elementary"})
 
-  console.log(sunshineElementary.info)
+console.log(sunshineElementary.info)
